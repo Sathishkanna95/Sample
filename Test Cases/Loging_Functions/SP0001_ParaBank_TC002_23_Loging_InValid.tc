@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case is created to verify the invaild loging functoin</description>
+   <name>SP0001_ParaBank_TC002_23_Loging_InValid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2280c02e-f424-401a-ae1c-2a46575da19a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fe867b06-7fd4-481f-9c38-823813567b08</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7bd6a1ff-bb5b-42c6-a433-956d449ab90d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Sathish1'</defaultValue>
+      <description></description>
+      <id>fe867b06-7fd4-481f-9c38-823813567b08</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Kanna212'</defaultValue>
+      <description></description>
+      <id>7bd6a1ff-bb5b-42c6-a433-956d449ab90d</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
